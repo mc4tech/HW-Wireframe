@@ -1,0 +1,84 @@
+
+body {
+	
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 500%;
+	width: 960px;
+	background: #777;
+}
+header {
+	margin-top: 20px;
+	margin-left: 230px;
+	margin-right: -230px;
+	color: #777;
+	text-align: center;
+	background: #ebebeb;
+}
+nav {
+	margin-top: 20px;
+	margin-left: 230px;
+	margin-right: -230px;
+	color: #777;
+	text-align: center;
+	background: #ebebeb;
+}
+
+section {
+	text-align: center;
+	width: 495px;
+	background: #ebebeb;
+	line-height: 250%;
+	margin-top: 20px;
+	margin-left: 230px;
+	padding-bottom: 5px;
+
+}
+
+aside {
+	width: 200px;
+	margin-right: -230px;
+	width: 445px;
+	float: right;
+	margin-top: 20px;
+	color: #777;
+	text-align: center;
+	background: #ebebeb;
+	line-height: 257px;
+}
+
+article {
+	background: #777;
+	color: #ebebeb;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	padding-bottom: 2px;
+}
+h1 {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	background: #ebebeb;
+	font-size: 18px;
+	color: #777;
+
+}
+p {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 20px;
+	background: #ebebeb;
+	font-size: 18px;
+	color: #777;
+
+}
+footer {
+	margin-top: 20px;
+	margin-left: 230px;
+	margin-right: -230px;
+	color: #777;
+	text-align: center;
+	background: #ebebeb;
+
+}
